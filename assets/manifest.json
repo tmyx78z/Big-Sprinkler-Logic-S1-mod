@@ -4,5 +4,5 @@
     "description": "Adds logic to unused Big Sprinkler item",
     "dependencies": [
         "LavaGang-MelonLoader-0.7.0",
-        "the_croods-SwapperPlugin-1.2.2",]
+        "the_croods-SwapperPlugin-1.2.2"]
 }
