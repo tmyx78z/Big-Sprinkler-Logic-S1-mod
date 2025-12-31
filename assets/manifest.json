@@ -1,0 +1,11 @@
+{
+    "name": "BigSprinklerLogic",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/k073l/s1-sprinklerlogic",
+    "description": "Adds logic to unused Big Sprinkler item",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.0",
+        "the_croods-SwapperPlugin-1.2.2",
+        "ifBars-S1API_Forked-2.8.7"
+    ]
+}
