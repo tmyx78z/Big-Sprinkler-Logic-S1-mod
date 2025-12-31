@@ -18,3 +18,5 @@ Big Sprinkler item is already in the game, but it doesn't do anything. This mod 
     - For alternate/alternate beta use Mono
 4. Install S1API.Forked
 5. Launch the game
+
+DISCORD : TMYX78
