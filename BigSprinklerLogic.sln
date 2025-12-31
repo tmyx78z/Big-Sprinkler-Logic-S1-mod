@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSprinklerLogic", "BigSprinklerLogic.csproj", "{F59B3A4C-9C44-432B-9448-2E5F94C56B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug IL2CPP|Any CPU = Debug IL2CPP|Any CPU
+		Debug Mono|Any CPU = Debug Mono|Any CPU
+		Release IL2CPP|Any CPU = Release IL2CPP|Any CPU
+		Release Mono|Any CPU = Release Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Debug IL2CPP|Any CPU.ActiveCfg = Debug IL2CPP|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Debug IL2CPP|Any CPU.Build.0 = Debug IL2CPP|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Debug Mono|Any CPU.ActiveCfg = Debug Mono|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Debug Mono|Any CPU.Build.0 = Debug Mono|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Release IL2CPP|Any CPU.ActiveCfg = Release IL2CPP|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Release IL2CPP|Any CPU.Build.0 = Release IL2CPP|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Release Mono|Any CPU.ActiveCfg = Release Mono|Any CPU
+		{F59B3A4C-9C44-432B-9448-2E5F94C56B54}.Release Mono|Any CPU.Build.0 = Release Mono|Any CPU
+	EndGlobalSection
+EndGlobal
