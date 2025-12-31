@@ -8,8 +8,6 @@ Big Sprinkler item is already in the game, but it doesn't do anything. This mod 
 - Allows botanists to use the sprinkler, cutting down watering time significantly
 - Adds the item to Dan's, Hank's and Oscar's shops
 
-![Sprinkler in action](https://raw.githubusercontent.com/k073l/s1-sprinklerlogic/master/assets/inaction.png)
-
 ## Installation
 1. Install MelonLoader
 2. Extract the zip file
